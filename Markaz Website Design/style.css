@@ -1,0 +1,26 @@
+.gradient-text {
+    background: linear-gradient(90deg, blue, white);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+.box:hover span{
+    color: white !important ;
+}
+
+.box:hover i{
+    color: white !important ;
+}
+
+.box:hover h5{
+    color: white !important ;
+}
+
+.box:hover a{
+    color: white !important ;
+}
+
+.iframe{
+    color: white !important ;
+}
